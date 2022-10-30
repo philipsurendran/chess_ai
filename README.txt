@@ -1,0 +1,1 @@
+To check my code you just need to run test_chess and go select the relevant options you are prompted for
